@@ -32,4 +32,5 @@ gr.Interface(
     examples=examples,
     interpretation=interpretation,
     enable_queue=enable_queue,
+    thumbnail="pineapple_bag.jpeg",
 ).launch()
