@@ -18,7 +18,7 @@ description = (
     "A luxury bag classifier trained on photos of a few brands. Created with resnet18 architecture."
 )
 article = "<p style='text-align: center'><a href='https://www.kaggle.com/code/sellde/fastai-chapter-2' target='_blank'>Model Source</a></p>"
-examples = ["gucci.jpg", "chanel.jpg", "vuitton.jpg"]
+examples = [["gucci.jpg"], ["chanel.jpg"], ["vuitton.jpg"]]
 interpretation = "default"
 enable_queue = True
 
